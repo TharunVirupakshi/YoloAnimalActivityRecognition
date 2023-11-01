@@ -6,6 +6,14 @@
 
 **Note:** This project was designed specifically to be used on Sheep. Modify it as required. 
 
+![Results](https://github.com/TharunVirupakshi/YoloAnimalActivityRecognition/assets/118896616/5ad6e301-0eff-4cd8-aeb7-ad5e6c485ca3)
+![val_batch0_labels](https://github.com/TharunVirupakshi/YoloAnimalActivityRecognition/assets/118896616/93e25d72-b5f6-4272-8cc6-c9b6d7979b29)
+
+
+Video: https://drive.google.com/file/d/14Dtcp7oHMIwN_vuQwz5yBSlODlNGRPXJ/view?usp=drive_link 
+       https://drive.google.com/file/d/147TOCtJpoIlYEJBuBhUlG0pbU7w7NS66/view?usp=sharing
+
+
 ## Instructions
 1. **Clone the Repository:** Open your terminal or command prompt and clone this repository using the following command:
 
